@@ -1,6 +1,7 @@
 // https://leetcode-cn.com/problems/rotate-string/
 
 /**
+ * 796. 旋转字符串
  * @param {string} s
  * @param {string} goal
  * @return {boolean}
